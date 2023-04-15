@@ -1,3 +1,4 @@
 programName = "Бот Небаня"
 
-print("Добро пожаловать в Бот Небаня")
+def PrintName(name)
+    print(f"Добро пожаловать в {name}")
