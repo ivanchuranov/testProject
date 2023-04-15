@@ -1,3 +1,3 @@
-programName = "Бот Небаня"
+programName = '"Бот Небаня"'
 
-print("Добро пожаловать в Бот Небаня")
+print(f"Добро пожаловать в {programName}")
